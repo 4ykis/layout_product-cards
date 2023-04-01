@@ -1,0 +1,1 @@
+{"version":3,"sources":["review.css"],"names":[],"mappings":"AAAA,SACE,YAAa,CACb,6BAA8B,CAC9B,kBACF,CAEA,gBACE,aAAc,CACd,cACF","file":"review.22159d1a.css","sourceRoot":"..\\src","sourcesContent":[".reviews {\n  display: flex;\n  justify-content: space-between;\n  align-items: center;\n}\n\n.reviews__count {\n  color: #060b35;\n  font-size: 10px;\n}\n"]}
